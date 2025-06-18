@@ -29,3 +29,5 @@ while game_on:
 
 
 screen.exitonclick()
+
+print("value")
